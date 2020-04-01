@@ -8,11 +8,11 @@ var gameInterval, updateInterval
 
 function pirateName() {
   var names = [
-    'Blackbeard',
-    'Jimmy',
-    'Roger',
-    'Carlos',
-    'Juanita',
+    'Bob',
+    'Jeff',
+    'Bill',
+    'Biff',
+    'Fart Man',
     'Sophie',
     'Boris',
     'Jenny',
