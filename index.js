@@ -13,12 +13,12 @@ function pirateName() {
     'Bill',
     'Biff',
     'Fart Man',
-    'Sophie',
-    'Boris',
-    'Jenny',
-    'Doris',
-    'Philippe',
-    'Jack'
+    'Steven',
+    'Billy Bob Joe',
+    'blargh',
+    'barf',
+    'moo',
+    'meep'
   ]
   return names[Math.floor(Math.random()*names.length)]
 }
