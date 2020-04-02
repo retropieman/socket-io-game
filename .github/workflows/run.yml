@@ -31,4 +31,5 @@ jobs:
       run: |
         echo running at directory
         pwd
+        npm i --save socket.io express nodemon
         
